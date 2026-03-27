@@ -1,0 +1,18 @@
+# Secret keys — NEVER pushed to GitHub
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+rag-env/
+
+# Mac system files
+.DS_Store
+
+# Database and data files
+chroma_db/
+data/
+
+# MLflow logs
+mlruns/
