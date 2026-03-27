@@ -110,13 +110,13 @@ source rag-env/bin/activate        # Mac/Linux
 # rag-env\Scripts\activate         # Windows
 ```
 
-### 3. Set Up Your API Key (Never Commit This)
+### 3. Set Up Your API Key
 ```bash
-cp .env.example .env
+cp .env
 ```
-Open `.env` and add your real Groq API key:
+Open `.env` and add your Groq API key:
 ```
-GROQ_API_KEY=your_real_key_here
+GROQ_API_KEY=your_key_here
 ```
 
 ### 4. Install Dependencies
