@@ -256,8 +256,3 @@ docker run --platform linux/arm64 \
 ## 📈 Resume Bullet
 
 > *"Built a production RAG system with hybrid BM25 + vector retrieval, Reciprocal Rank Fusion, and cross-encoder reranking using LangChain and ChromaDB — served via FastAPI, containerised with Docker, and tracked with MLflow; end-to-end query latency under 2.5 seconds on Apple Silicon"*
-
----
-
-## 📄 License
-MIT
